@@ -1,7 +1,7 @@
 #include <iostream>
 
 // Function to calculate the Fibonacci number at a given index
-int fibonacci(int n) {
+unsigned long long fibonacci(int n) {
   if (n <= 1)
       return n;
   
